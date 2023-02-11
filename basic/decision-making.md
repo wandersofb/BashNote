@@ -1,4 +1,4 @@
-# Decision Making & Loops
+# Decision Making
 
 ## Decision Making
 if [ expression ]; then
