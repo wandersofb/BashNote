@@ -4,6 +4,6 @@
 
 ## Basic
 
-* [Variable](basic/variable.md)
-* [Decision Making](basic/page-2.md)
+* [Variable](group-1/wo-suo-le-jie-de-bash.md)
+* [Decision Making](basic/decision-making.md)
 * [Arguments](basic/arguments.md)
