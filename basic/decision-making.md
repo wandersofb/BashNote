@@ -1,6 +1,7 @@
 # Decision Making
 
 ## Decision Making
+```shell
 if [ expression ]; then
     xx
 elif []; then
@@ -8,6 +9,7 @@ elif []; then
 else
     xx
 fi
+```
 
 ### 数值比较的类型
 ```shell
